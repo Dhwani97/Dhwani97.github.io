@@ -6,6 +6,4 @@ dependencies:
   - matplotlib
   - pandas
   - ipywidgets
-  - geopandas
-  - contextily
-  - seaborn
+  - bqplot
